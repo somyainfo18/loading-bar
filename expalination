@@ -1,0 +1,16 @@
+# loading bar###
+
+
+---html-----
+
+<main>
+    <div class = "loading-bar>
+          <div class = "loading-bar__item>
+
+          ### logic### outside the loading bar will be stand still and inside the loading bar moving##
+
+
+          set interval :- if you want run something again and again
+          it takes 2 things Function and time
+
+          clearInterval  it takes only 1 argument like id or 
